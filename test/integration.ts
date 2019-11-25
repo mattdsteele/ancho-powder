@@ -1,4 +1,4 @@
-import { Paprika } from '../src';
+import { Paprika } from '../src/index';
 import * as creds from './auth';
 
 const paprika = new Paprika(creds);
