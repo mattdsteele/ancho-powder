@@ -1,8 +1,4 @@
-export interface RecipesResponse {
-  result: Result[];
-}
-
-export interface Result {
+export interface Recipes {
   hash: string;
   uid: string;
 }

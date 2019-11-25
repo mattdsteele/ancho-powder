@@ -1,8 +1,4 @@
-export interface CategoriesResponse {
-  result: Result[];
-}
-
-export interface Result {
+export interface Categories {
   name: string;
   uid: string;
   parent_uid: null;

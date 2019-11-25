@@ -1,8 +1,4 @@
-export interface RecipeResponse {
-  result: Result;
-}
-
-export interface Result {
+export interface Recipe {
   rating: number;
   photo_hash: string;
   on_favorites: boolean;
