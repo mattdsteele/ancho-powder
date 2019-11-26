@@ -1,11 +1,12 @@
 {
-  "name": "paprika",
+  "name": "paprika-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "pika build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "npm run build"
   },
   "keywords": [],
   "author": "",
