@@ -1,7 +1,6 @@
 {
   "name": "paprika-api",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "pika build",
@@ -34,5 +33,14 @@
         "@pika/plugin-build-node"
       ]
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdsteele/paprika-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattdsteele/paprika-api/issues"
+  },
+  "homepage": "https://github.com/mattdsteele/paprika-api#readme",
+  "description": ""
 }
